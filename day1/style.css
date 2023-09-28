@@ -1,0 +1,110 @@
+.card1{
+    background-color:rgb(0, 233, 163);
+    border-radius: 25px;
+    margin: 150px auto ;
+    padding:  30px 15px 50px 50px;
+    width: 400px;
+    height: 300px;
+}
+
+.header1{
+    font-family: sans-serif;
+    font-size: larger;
+    margin-top: 50px;
+}
+
+.font1{
+    font-family: sans-serif;
+
+    font-style: normal;
+    font-size: small;
+    font-weight: 5%;
+}
+
+.footer1{
+    background-color:rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 5px 20px 5px 25px;
+    width: 150px;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.img1{
+    border-radius: 200px;
+    margin: 20px 20px 20px 20px;
+}
+
+.profiles{
+    border: 1px solid grey;
+    border-radius: 15px;
+    width: 400px;
+    height: 340px;
+    margin: 150px auto ;
+
+}
+
+.text1{
+    font-size: larger;
+    font-family: sans-serif;
+    margin: 20px 20px 20px 25px;
+}
+
+.text2{
+    color: gray;
+}
+
+.images{
+    border-bottom: 1px solid grey;
+}
+
+.lastline{
+    font-family: sans-serif;
+    padding: 5px 60px 20px 30px;
+    /* font-size: larger; */
+    color: darkcyan;
+}
+
+.card3{
+    margin: 200px 500px;
+    border: 1px solid grey;
+    border-radius: 15px;
+    width: 500px;
+    height: 600px;
+}
+
+.img3{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.text3{
+    color: gray;
+    margin: 0px 15px;
+    font-family: sans-serif;
+    font-size: larger;
+
+}
+
+.text4{
+    margin: 25px 10px 10px 25px;
+font-family: sans-serif;
+
+}
+
+.button1{
+    margin: 25px 10px 10px 25px;
+    width: 200px;
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: none;
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    color: darkcyan;
+
+}
